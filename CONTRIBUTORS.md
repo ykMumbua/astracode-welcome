@@ -9,3 +9,4 @@ Add your profile below to become an official contributor!
 | Terry Anne Wanjiru Mureithi | [@Tawmie02](https://github.com/Tawmie02) | Solana |
 | Kallen Mugambi | [@Kallendev](https://github.com/Kallendev) | Newbie-None |
 Wangui Margaret|[@margret255](https://github.com/margret255)
+| Denis Oluoch | [@DenisOluoch](https://github.com/DenisOluoch) 
